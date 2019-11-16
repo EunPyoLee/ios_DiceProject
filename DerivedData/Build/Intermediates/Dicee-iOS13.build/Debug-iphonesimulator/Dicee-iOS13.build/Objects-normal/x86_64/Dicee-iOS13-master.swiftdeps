@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "cf8730a93a17dee53412a0611b5544ba"
+build_time: [1573873096, 672508000]
+inputs:
+  "/Users/macbookpro/Documents/iosDev/Dicee-iOS13/Dicee-iOS13/ViewController.swift": [1573873096, 613756230]
+  "/Users/macbookpro/Documents/iosDev/Dicee-iOS13/Dicee-iOS13/AppDelegate.swift": [1573872895, 800581412]
+  "/Users/macbookpro/Documents/iosDev/Dicee-iOS13/Dicee-iOS13/SceneDelegate.swift": [1573860999, 214290260]
